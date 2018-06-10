@@ -1,0 +1,17 @@
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid black;
+  height: 25px;
+  width: 25px;
+}
+
+.ship {
+  background-color: grey;
+}
+
+.ship.damaged {
+  background-color: red;
+}
